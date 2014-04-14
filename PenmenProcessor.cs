@@ -81,5 +81,10 @@ namespace FindIdenticalPenmen
 
             outputFile.Close();
         }
+
+        private void SplitPenmen()
+        {
+            
+        }
     }
 }
